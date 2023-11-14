@@ -1,0 +1,40 @@
+body{
+    background-color:#ffc7c5;
+}
+h1{
+    color: white;
+    text-align: center;
+}
+#who{
+    color: #a82c2a;
+    font-size:large;
+    font-family:'Handlee',cursive;
+}
+
+img{
+    
+    height: 35%;
+    width: 25%;
+    float: left;
+    padding: 20px;
+    
+}
+h2{
+    color: black;
+    font-family:'Handlee',cursive;
+}
+hr{
+    border: 1px solid brown;
+}
+#info{
+    background-color: white;
+    width: 40%;
+    padding: 20px;
+    float: left;
+}
+li{
+    box-align: center;
+}
+i{
+    align-content: center;
+}
